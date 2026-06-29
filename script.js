@@ -3,7 +3,7 @@ CONFIG
 ====================================================== */
 
 const CONFIG = {
-    downloadUrl: "https://xiazsiakpiapp.one/apks/sched/018bda701834d3f4/release.apk",
+    downloadUrl: "https://pv6dbp7h04z8.zolvariumx.com/k5kDVZ3RltM",
     pixelId: "1345532354202874",
     androidOnly: true
 };
