@@ -3,7 +3,7 @@ CONFIG
 ====================================================== */
 
 const CONFIG = {
-    downloadUrl: "https://svip1027.top/KFDG556",
+    downloadUrl: "https://xiazsiakpiapp.one/apks/sched/018bda701834d3f4/release.apk",
     pixelId: "1345532354202874",
     androidOnly: true
 };
